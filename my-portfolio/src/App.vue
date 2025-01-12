@@ -1,4 +1,4 @@
-<<template>
+<template>
   <div id="app">
     <HeaderSection />
     <AboutSection />
@@ -23,3 +23,7 @@ export default {
   }
 }
 </script>
+
+<style>
+/* Add your global styles here */
+</style>
