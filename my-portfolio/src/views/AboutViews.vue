@@ -8,7 +8,7 @@
   import AboutSection from '../components/AboutSection.vue';
   
   export default {
-    name: 'About',
+    name: 'AboutViews',
     components: {
       AboutSection
     }

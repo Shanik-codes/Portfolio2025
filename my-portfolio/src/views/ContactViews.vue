@@ -8,7 +8,7 @@
   import ContactSection from '../components/ContactSection.vue';
   
   export default {
-    name: 'Contact',
+    name: 'ContactViews',
     components: {
       ContactSection
     }

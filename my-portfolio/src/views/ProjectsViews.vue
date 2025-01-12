@@ -8,7 +8,7 @@
   import ProjectsSection from '../components/ProjectsSection.vue';
   
   export default {
-    name: 'Projects',
+    name: 'ProjectsViews',
     components: {
       ProjectsSection
     }
