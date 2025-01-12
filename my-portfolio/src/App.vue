@@ -1,29 +1,25 @@
-<template>
+<<template>
   <div id="app">
-    <Header />
-    <About />
-    <Projects />
-    <Contact />
+    <HeaderSection />
+    <AboutSection />
+    <ProjectsSection />
+    <ContactSection />
   </div>
 </template>
 
 <script>
-import Header from './components/Header.vue';
-import About from './components/About.vue';
-import Projects from './components/Projects.vue';
-import Contact from './components/Contact.vue';
+import HeaderSection from './components/HeaderSection.vue';
+import AboutSection from './components/AboutSection.vue';
+import ProjectsSection from './components/ProjectsSection.vue';
+import ContactSection from './components/ContactSection.vue';
 
 export default {
   name: 'App',
   components: {
-    Header,
-    About,
-    Projects,
-    Contact
+    HeaderSection,
+    AboutSection,
+    ProjectsSection,
+    ContactSection
   }
 }
 </script>
-
-<style>
-/* Add your global styles here */
-</style>
