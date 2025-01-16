@@ -39,11 +39,11 @@
       </section>
       <section id="contact">
         <h2>Contact</h2>
-        <p>Feel free to reach out to me at <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+        <p>Feel free to reach out to me at <a href="mailto:your-shanikhernandez93@outlook.com">your-shanikhernandez93@outlook.com</a></p>
         <ul>
-          <li><a href="https://linkedin.com/in/your-profile">LinkedIn</a></li>
-          <li><a href="https://github.com/your-profile">GitHub</a></li>
-          <li><a href="https://twitter.com/your-profile">Twitter</a></li>
+          <li><a href="https://www.linkedin.com/in/shanik-hernandez/">LinkedIn</a></li>
+          <li><a href="https://github.com/Shanik-codes">GitHub</a></li>
+          <li><a href="https://www.instagram.com/shanik.codes?igsh=MWU4ZWFvZWlpYnJleg==">Instagram</a></li>
         </ul>
       </section>
     </div>
