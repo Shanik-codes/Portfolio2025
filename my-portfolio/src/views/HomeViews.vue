@@ -7,7 +7,8 @@
     </header>
     <section id="about">
       <h2>About Me</h2>
-      <p>A brief introduction about yourself.</p>
+      <p>I'm currently a student in Seminole State College. Pursuing a bachelors degree in 
+        information system technology with a specialization in programming</p>
       <ul>
         <li>Skill 1</li>
         <li>Skill 2</li>
