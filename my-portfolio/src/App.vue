@@ -1,17 +1,16 @@
 <template>
   <div id="app">
-    <HeaderSection />
-    <router-view />
+    <HomePage />
   </div>
 </template>
 
 <script>
-import HeaderSection from './components/HeaderSection.vue';
+import HomePage from './components/HomePage.vue';
 
 export default {
   name: 'App',
   components: {
-    HeaderSection
+    HomePage
   }
 }
 </script>
