@@ -3,7 +3,7 @@
     <header>
       <h1>Welcome to My Portfolio</h1>
       <img src="path/to/profile-picture.jpg" alt="Profile Picture">
-      <p>Hi, I'm [Your Name], a passionate software engineer.</p>
+      <p>Hi, I'm Shanik Hernandez, a passionate software engineer.</p>
     </header>
     <section id="about">
       <h2>About Me</h2>
