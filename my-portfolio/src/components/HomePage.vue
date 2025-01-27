@@ -26,12 +26,18 @@
         <li>JavaScript</li>
         <li>Vue.js</li>
         <li>React</li>
+        <li>Node.js</li>
+        <li>MySQL</li>
+        <li>JavaScript</li>
       </ul>
       <h3>Soft Skills</h3>
       <ul>
         <li>Communication</li>
         <li>Teamwork</li>
         <li>Problem-Solving</li>
+        <li>Leadership</li>
+        <li>Adaptability</li>
+        <li>Time Management</li>
       </ul>
     </section>
     <section id="projects">
