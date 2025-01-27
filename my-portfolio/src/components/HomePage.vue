@@ -68,7 +68,7 @@ export default {
 
 <style scoped>
 /* Add your styles here */
-html {
+/**html {
   scroll-behavior: smooth;
 }
 
@@ -98,5 +98,6 @@ section {
   margin: 1rem 0;
   border-radius: 5px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
+}**/
 </style>
+<style src="@/assets/style.css"></style>
