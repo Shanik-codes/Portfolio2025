@@ -55,3 +55,11 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+h1, h2, h3 {
+  font-family: 'Lobster', cursive;
+}
+
+p, ul, li {
+  font-family: 'Roboto', sans-serif;
+}
