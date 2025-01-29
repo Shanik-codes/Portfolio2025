@@ -29,7 +29,7 @@ header nav ul li {
   margin: 0 1rem;
 }
 
-header nav ul li a {
+header nav ul li a:hover {
   color: white;
   text-decoration: none;
   transition: color 0.3s;
@@ -38,6 +38,9 @@ header nav ul li a {
 section {
   padding: 2rem;
   margin: 1rem 0;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 .project {
