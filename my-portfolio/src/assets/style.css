@@ -90,9 +90,13 @@ a:hover {
   color:#fff ;
 }
 
-h1, h2, h3 {
+h2, h3 {
   font-family: 'Lobster', cursive;
-  text-align: center;
+  text-align: left;
+  color: #333;
+  margin-left: 1rem;
+  border-left: 4px solid #ff9a9e;
+  padding-left: 0.5rem;
 }
 
 p, ul, li {
