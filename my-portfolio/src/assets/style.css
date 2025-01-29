@@ -103,8 +103,20 @@ p, ul, li {
   color: #ad1457;
 }
 
+#contact p a {
+  color: #d81b60;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+#contact p a:hover{
+  color: #ad1457;
+}
+
 #contact ul li a {
   color: #d81b60;
+  text-decoration: none;
+  transition: color 0.3s;
 }
 
 hr {
