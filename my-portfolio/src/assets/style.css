@@ -32,6 +32,7 @@ header nav ul li {
 header nav ul li a {
   color: white;
   text-decoration: none;
+  transition: color 0.3s;
 }
 
 section {
