@@ -66,38 +66,4 @@ export default {
 }
 </script>
 
-<style scoped>
-/* Add your styles here */
-/**html {
-  scroll-behavior: smooth;
-}
-
-header nav ul {
-  list-style: none;
-  padding: 0;
-}
-
-header nav ul li {
-  display: inline;
-  margin: 0 1rem;
-}
-
-header nav ul li a {
-  color: #333;
-  text-decoration: none;
-}
-
-section {
-  padding: 2rem;
-  margin: 1rem 0;
-}
-
-.project {
-  background-color: #fff;
-  padding: 1rem;
-  margin: 1rem 0;
-  border-radius: 5px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}**/
-</style>
 <style src="@/assets/style.css"></style>
