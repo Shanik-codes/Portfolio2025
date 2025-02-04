@@ -14,7 +14,7 @@
     </header>
     <section id="about">
       <h2>About Me</h2>
-      <p>I'm currently a student at Seminole State College. Working on my Bachelor's Degree in
+      <p> I'm currently a student at Seminole State College. Working on my Bachelor's Degree in
         Information System Technology with a specialization in programming. I have a Full-stack 
         development certificate from UCF. I enjoy making websites and getting through the problems 
         is very satisfactory.
